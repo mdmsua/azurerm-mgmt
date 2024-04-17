@@ -1,0 +1,9 @@
+name: Owner
+description: Just an owner
+actions: ["*"]
+not_actions: []
+---
+name: Reader
+description: Just a reader
+actions: ["*/read"]
+not_actions: []
